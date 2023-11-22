@@ -2,5 +2,8 @@ pisun gucci epta
 shluha epta sobaka tupaya shluha blatnaya
 ebanutaya svinya zakroi past tvar
 pohui chto ebanutaya
+<<<<<<< HEAD
 da ya shalava i chto
 che za hui
+=======
+>>>>>>> parent of 4bf7cf7 (ebanutaya shtuka)
